@@ -25,7 +25,6 @@ Similarly, the average temperature in June is only four degrees warmer than Dece
 Lastly, it is worth noting that our minimum temperature discrepancy between June and December may be the result of an outlier. We would need to perform more advanced statistical analyses to know for sure, but you can see from our summary statistics that our mean, 25th percentile, 50th percentile, and 75th percentile numbers for June and December all have a difference of about four degrees. All those summary statistics are dependent on the entire set of data, whereas the minimums are only one data point in each month. Therefore, it is likely there was just an untraditionally cold night sometime in the range of dates our data is from. 
 
 #### Additional Analysis
-and two additional queries that you would perform to gather more weather data for June and December
 
 There could be some additional data we can analyze to feel even more comfortable with our decision to open a shop in Hawaii. It is great that our temperatures seem consistent all year, but below are two additional ideas we should consider before making a final decision.
 - Precipitation averages: Rain has a big impact on surfing, and likely impacts people's desire to eat ice cream as well. I believe it would be beneficial to consider the average amount of rain that falls in June compared to December.
