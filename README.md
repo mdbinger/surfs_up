@@ -13,8 +13,7 @@ We are hoping to start a new business in Hawaii that rents and sells surf equipm
 - The maximum temperatures from the June and December data are 85 degrees and 83 degrees, respectively. This is also great news for our potential shop, as again this suggests that the typical high temperature in Hawaii is going to be around the mid-80s all year.
 - The minimum temperatures from the June and December data are 64 degrees and 56 degrees, respectively. Although this is not a huge concern, this is the first somewhat considerable difference we have noticed in temperature data. 56 degrees is noticeably colder than 64 degrees, but still not cold enough for us to believe our shop will not be successful, especially considering minimum temperatures are typically reached in the early morning. 
 
-![alt text](https://github.com/mdbinger/surfs_up/blob/main/Resources/December_Summary_Stats.png)
-/Users/michaelbinger/Documents/Bootcamp/Module_9/Challenge/December_Summary_Stats.png
+![alt text](https://github.com/mdbinger/surfs_up/blob/main/Resources/December_Summary_Stats.png) ![alt text](https://github.com/mdbinger/surfs_up/blob/main/Resources/June_Summary_Stats.png)
 
 ## Summary
 #### Provide a high-level summary of the results 
