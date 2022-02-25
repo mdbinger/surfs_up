@@ -17,7 +17,6 @@ We are hoping to start a new business in Hawaii that rents and sells surf equipm
 ## Summary
 #### Provide a high-level summary of the results 
 
-
 There isn't much to be concerned about in regard to opening our surf and ice cream shop based upon the temperature data in Hawaii for June and December. As stated in our results section, the weather in Hawaii appears to be consistent all year. This is demonstrated by June and December temperature summary statistics being relatively close to each other. The maximum temperature from our June data was only two degrees higher than December, which is effectively the same. 
 
 Similarly, the average temperature in June is only four degrees warmer than December, which may be a noticeable difference, but not much. The only considerable difference was the minimum temperatures in December was eight degrees cooler than June. While eight degrees is typically a noticeable difference, this temperature was likely recorded during a time that our shop would not be open. 
